@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "Stop Ex",
+  "description": "The app  is your stop watch . Simple and handy",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icon16.png",
+    "48": "/img/icon48.png",
+    "128": "/img/icon128.png"
+  },
+  "developer": {
+    "name": "Sumantro Mukherjee"   },
+  "installs_allowed_from": ["*"],
+ "default_locale": "en"
+
+}
